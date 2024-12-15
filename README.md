@@ -15,7 +15,6 @@ This project is a full-stack application with a **FastAPI** backend and a **Reac
 
 ### Prerequisites
 - Python 3.8+
-- Node.js 14+
 - MongoDB (either local instance or MongoDB Atlas for cloud database)
 - **Virtual environment** for Python dependencies (recommended)
 
@@ -45,4 +44,16 @@ This project is a full-stack application with a **FastAPI** backend and a **Reac
    ```bash
    git clone https://github.com/Vkpro55/Imagify_Frontend.git
    cd Imagify_Frontend
+   ```
+
+2. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Run the server**:
+   ```bash
+   npm run dev
+   ```
+   
    
