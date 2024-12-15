@@ -20,14 +20,29 @@ This project is a full-stack application with a **FastAPI** backend and a **Reac
 - **Virtual environment** for Python dependencies (recommended)
 
 ### Backend (FastAPI)
-1. **Clone the repository**:
+
+1. **Backend Repo**:
+   ```bash
+   https://github.com/Vkpro55/Imagify_Backend/tree/main
+   ```
+
+2. **Clone the repository**:
    ```bash
    git clone https://github.com/Vkpro55/Imagify_Backend.git
-   cd image-upload-mask-service
+   cd Imagify_Backend
+   ```
+3. **Install Packages**:
+   ```bash
+   pip -r requirements.txt
+   ```
+3. **Run the backend server**:
+   ```bash
+   uvicorn app.main:app --reload
+   ```
 
 ### Frontend (React)
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Vkpro55/Imagify_Backend.git
-   cd image-upload-mask-service
+   git clone https://github.com/Vkpro55/Imagify_Frontend.git
+   cd Imagify_Frontend
    
