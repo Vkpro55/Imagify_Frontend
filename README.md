@@ -55,5 +55,9 @@ This project is a full-stack application with a **FastAPI** backend and a **Reac
    ```bash
    npm run dev
    ```
-   
+
+
+![Screenshot (473)](https://github.com/user-attachments/assets/c87a40ef-84f1-41a3-b714-379850e9f11b)
+![Screenshot (474)](https://github.com/user-attachments/assets/a7f924f7-93c7-4e92-94a8-6823102b20ee)
+
    
