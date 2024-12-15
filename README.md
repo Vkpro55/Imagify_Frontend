@@ -22,5 +22,12 @@ This project is a full-stack application with a **FastAPI** backend and a **Reac
 ### Backend (FastAPI)
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/image-upload-mask-service.git
+   git clone https://github.com/Vkpro55/Imagify_Backend.git
    cd image-upload-mask-service
+
+### Frontend (React)
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Vkpro55/Imagify_Backend.git
+   cd image-upload-mask-service
+   
